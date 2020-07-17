@@ -11,7 +11,9 @@
 ![c-logo(1)](https://user-images.githubusercontent.com/58748375/87804353-6bd6b100-c85c-11ea-8561-6c92f2f7b4a5.png) 
 ![iconfinder_android_1010034](https://user-images.githubusercontent.com/58748375/87804742-f9b29c00-c85c-11ea-95a1-0976072798c3.png) ![iconfinder_181_Java_logo_logos_4373217](https://user-images.githubusercontent.com/58748375/87804761-ff0fe680-c85c-11ea-8377-7d3290a848b7.png)
 ![iconfinder_10-html5_104494](https://user-images.githubusercontent.com/58748375/87804964-4a29f980-c85d-11ea-82e5-4b7bbe3173a1.png) 
-![iconfinder_icon-77-document-file-css_315874](https://user-images.githubusercontent.com/58748375/87804971-4c8c5380-c85d-11ea-89d8-e8b4e8c61220.png) ![iconfinder_php_282805](https://user-images.githubusercontent.com/58748375/87804976-4e561700-c85d-11ea-8159-32543d896043.png) <br>
+![iconfinder_icon-77-document-file-css_315874](https://user-images.githubusercontent.com/58748375/87804971-4c8c5380-c85d-11ea-89d8-e8b4e8c61220.png)
+![microsoft-dot-net](https://user-images.githubusercontent.com/58748375/87836786-ea057880-c899-11ea-8448-3ba3c333672b.png)
+![iconfinder_php_282805](https://user-images.githubusercontent.com/58748375/87804976-4e561700-c85d-11ea-8159-32543d896043.png) <br>
 ![icons8-mysql-logo-50](https://user-images.githubusercontent.com/58748375/87805204-a42abf00-c85d-11ea-8d50-5ef82fd6d625.png) 
 ![icons8-microsoft-sql-server-48](https://user-images.githubusercontent.com/58748375/87805206-a4c35580-c85d-11ea-9edf-989e56d7135b.png)
 
