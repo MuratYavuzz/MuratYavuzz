@@ -21,12 +21,18 @@
 ![icons8-python-48](https://user-images.githubusercontent.com/58748375/87806354-69c22180-c85f-11ea-97d8-288dabdffc80.png)
 <h3> 👯 Collaborate </h3>
 <p> I am ready to cooperate in any projects that interest me and useful. No matter how crazy the project is! 😄 </p>
+<h3> 📫 Reach Me </h3>
+<ul>
+  <li> Gmail ➥
+ <b> muraatyavuz@gmail.com </b> </li>
+  <li> LinkedIn ➥
+    <a href="https://www.linkedin.com/in/murat-yavuz/"> My LinkedIn Profile </a> </li>
+</ul>
 
 
 <!--
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
