@@ -2,7 +2,7 @@
 ![HelloWorld](https://user-images.githubusercontent.com/58748375/87801556-90c92500-c858-11ea-8c92-164b94f95914.png)
 
 <h2>Who Am I?</h2>
-<p style="font-family: 'Comic Sans MS', sans-serif;"> I am studying Computer Engineering at Eskişehir Osmangazi University and I graduated in June 2020. I am interested in web development with .Net technologies and, data structures with C++. I also developed projects with Java and Android Studio.</p>
+<p style="font-family: 'Comic Sans MS', sans-serif;"> I was a student of Computer Engineering at Eskişehir Osmangazi University and I graduated in June 2020. I am interested in web development with .Net technologies and, data structures with C++. I also developed projects with Java and Android Studio.</p>
 
 <h3>🔭 I worked with </h3>
 
