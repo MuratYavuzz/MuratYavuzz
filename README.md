@@ -16,11 +16,11 @@
 ![iconfinder_php_282805](https://user-images.githubusercontent.com/58748375/87804976-4e561700-c85d-11ea-8159-32543d896043.png) <br>
 ![icons8-mysql-logo-50](https://user-images.githubusercontent.com/58748375/87805204-a42abf00-c85d-11ea-8d50-5ef82fd6d625.png) 
 ![icons8-microsoft-sql-server-48](https://user-images.githubusercontent.com/58748375/87805206-a4c35580-c85d-11ea-9edf-989e56d7135b.png)
-
-<h3>🌱 I’m currently learning</h3>
-
 ![icons8-django-48](https://user-images.githubusercontent.com/58748375/87806353-69298b00-c85f-11ea-877f-259a5bc60c5c.png)
 ![icons8-python-48](https://user-images.githubusercontent.com/58748375/87806354-69c22180-c85f-11ea-97d8-288dabdffc80.png)
+<h3>🌱 I’m currently learning and working </h3>
+
+![pega-logo-E7D7138A33-seeklogo com](https://user-images.githubusercontent.com/58748375/123919932-1cff2a00-d98e-11eb-993e-ee534ffd72e3.png)
 <h3> 👯 Collaborate </h3>
 <p> I am ready to cooperate in any projects that interest me and useful for World. No matter how crazy the project is! 😄 </p>
 <h3> 📫 Reach Me </h3>
