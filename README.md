@@ -2,7 +2,7 @@
 ![HelloWorld](https://user-images.githubusercontent.com/58748375/87801556-90c92500-c858-11ea-8c92-164b94f95914.png)
 
 <h2>Who Am I?</h2>
-<p style="font-family: 'Comic Sans MS', sans-serif;"> I graduated from Eskişehir Osmangazi University, Computer Engineering department in June 2020. Currently, I am doing a master's degree at the Eskişehir Osmangazi University, Computer Engineering department and working at Dilisim as PEGA System Architect.</p>
+<p style="font-family: 'Comic Sans MS', sans-serif;"> I graduated from Eskişehir Osmangazi University, Computer Engineering department in June 2020. Currently, I am doing a master's degree at the Eskişehir Osmangazi University, Computer Engineering department and working at Dilisim as PEGA System Architect/Decisioning Architect.</p>
 
 <h3>🔭 I worked with </h3>
 
